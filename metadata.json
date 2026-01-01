@@ -1,0 +1,5 @@
+{
+  "name": "JFK Weather Analytics Dashboard",
+  "description": "A comprehensive data science workflow application for analyzing JFK Airport weather patterns and predicting precipitation using linear regression models.",
+  "requestFramePermissions": []
+}
